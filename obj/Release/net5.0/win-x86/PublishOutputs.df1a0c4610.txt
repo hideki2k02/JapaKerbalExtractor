@@ -1,0 +1,2 @@
+C:\Users\japa4551\Documents\Codes\GitHub\JapaKerbalExtractor\bin\Release\net5.0\win-x86\publish\JapaKerbalExtractor.pdb
+C:\Users\japa4551\Documents\Codes\GitHub\JapaKerbalExtractor\bin\Release\net5.0\win-x86\publish\JapaKerbalExtractor.exe
