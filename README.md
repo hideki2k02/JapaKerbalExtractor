@@ -13,7 +13,7 @@ Fun Fact: I annoyed some people, but the whole code under 69 lines (Commentaries
 
 - Install [.NET Core 5.0](https://dotnet.microsoft.com/download) if its not installed
 
-- Download the pre-built program on the [Releases page](https://github.com/japa4551/JapaBookmarksDateViewer/releases) (You can also build it yourself if you want to, in case there is no version for your current system)
+- Download the pre-built program on the [Releases page](https://github.com/japa4551/JapaKerbalExtractor/releases) (You can also build it yourself if you want to, in case there is no version for your current system)
 
 - The program will attempt to extract **all the files in the same folder as the EXE** with the extension you inputted (tested on RAR and ZIP)
 
